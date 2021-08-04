@@ -61,6 +61,7 @@ include('../_parts/header.php');
     <label for="password">Password : </label>
     <input type="password" name="password" required minlength="8"> <br>
     <button type="submit">Sign In</button>
+    <button>Hi</button>
 </foam>
 
 <p><a href="signup.php">Creat Your Account</a></p>
